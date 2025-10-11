@@ -8,12 +8,16 @@ const Hero = () => {
       <div className='display-container'>
         <h1 className='display-title'>Little Lemon</h1>
         <h3 className='display-subtitle'>Chicago</h3>
+        <h3 className='display-subtitle'>VietNam</h3>
         <h4 className='display-text'>
           We are a family owned Mediterranean restaurant, focused on traditional
           recipes served with a modern twist.
         </h4>
         <LinkR to='/bookings' className='reserve-button'>
           Reserve a Table
+        </LinkR>
+        <LinkR to='/list' className='reserve-button'>
+          List add list function
         </LinkR>
       </div>
       <div className='image-container'>
