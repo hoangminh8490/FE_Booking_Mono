@@ -12,7 +12,7 @@ const Hero = () => {
           We are a family owned Mediterranean restaurant, focused on traditional
           recipes served with a modern twist.
         </h4>
-        <LinkR to='/bookings' className='reserve-button'>
+        <LinkR to='/list' className='reserve-button'>
           Reserve a Table
         </LinkR>
       </div>
