@@ -7,7 +7,7 @@ import { Routes, Route } from 'react-router-dom';
 const Main = () => {
   return (
     <>
-      {/* ROUTES */}
+      ROUTES
       <Routes>
         <Route path='/' element={<HomePage />} />
         <Route path='/bookings' element={<BookingPage />} />
