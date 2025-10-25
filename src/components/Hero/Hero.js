@@ -15,6 +15,9 @@ const Hero = () => {
         <LinkR to='/list' className='reserve-button'>
           Reserve a Table
         </LinkR>
+        {/* <LinkR to='/list' className='reserve-button'>
+          List add list function
+        </LinkR> */}
       </div>
       <div className='image-container'>
         <img
