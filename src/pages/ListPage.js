@@ -1,11 +1,8 @@
 const ListPage = () => {
+     return (
+        <div>Niemhyvong VietNam<span>aaaaaaa</span></div>
 
-
-  return (
-    <>
-      <div>Niemhyvong</div>
-    </>
-  );
-};
+  ); 
+}
 
 export default ListPage;
